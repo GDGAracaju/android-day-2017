@@ -1,0 +1,11 @@
+  - nome: "Nome 1"
+    palestra: 
+        titulo: ""
+        descricao: ""
+        horario: ""
+
+  - nome: "Nome 2"
+    palestra: 
+        titulo: ""
+        descricao: ""
+        horario: ""        
