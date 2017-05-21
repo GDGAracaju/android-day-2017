@@ -1,17 +1,17 @@
 <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-  <div class="mdl-card mdl-cell mdl-cell--12-col">
-    <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-      <h4 class="mdl-cell mdl-cell--12-col">Palestrantes e Palestras</h4>
-      {% for palestrante in site.data.palestrantes %}
-      <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
-        <div class="section__circle-container__circle mdl-color--primary"></div>
-      </div>
-      <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-        <h5>{{ palestrante.nome }}</h5>
-        <h6{{palestrante.palestra.nome}}</h6>
-          <p>{{palestrantes.palestra.descricao}}</p>
-      </div>
-      {% endfor %}
+    <div class="mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+            <h4 class="mdl-cell mdl-cell--12-col">Palestrantes e Palestras</h4>
+            {% for palestrante in site.data.palestrantes %}
+            <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+                <img src="./assets/img/{{palestrante.foto}}.jpg" style="width: 100px; height: 100px" class="section__circle-container__circle mdl-color--primary mdl-shadow--2dp" />
+            </div>
+            <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                <h5>{{ palestrante.palestra.titulo}}</h5>
+                <h6>{{ palestrante.nome }}</h6>
+                <p>{{palestrante.palestra.descricao}}</p>
+            </div>
+            {% endfor %}
+        </div>
     </div>
-  </div>
 </section>

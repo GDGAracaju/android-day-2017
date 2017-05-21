@@ -1,11 +1,36 @@
-  - nome: "Nome 1"
+  - nome: "Thiago Santos"
+    foto: "thiago_santos"
     palestra: 
-        titulo: ""
-        descricao: ""
+        titulo: "Introdução ao Kotlin"
+        descricao: "Aprenda o básico da linguagem e como utilizar com Android"
         horario: ""
-
-  - nome: "Nome 2"
+  - nome: "José Williams de Oliveira Silva"
+    foto: "jose_w"
     palestra: 
-        titulo: ""
+        titulo: "Material Design"
+        descricao: "O tema abordará uma introdução ao material design Google, seu significado e o porquê ele ter sido criado e por meio da minha experiência pessoal, demonstrar os benefícios que o Material Design pode trazer num projeto de UI."
+        horario: ""        
+  - nome: "Caique Oliveira"
+    foto: "caique_o"
+    palestra: 
+        titulo: "Arquitetura de Projeto para Android"
+        descricao: "Nesta palestra será mostrado como criar uma arquitetura em camadas para seu aplicativo Android mostrando as vantagens para o crescimento e testabilidade da aplicação"
+        horario: ""        
+  - nome: "Raul Silveira Vilar"
+    foto: "raul"
+    palestra: 
+        titulo: "Android Things Overview"
+        descricao: "O mundo do IoT cresce cada vez mais, agora, você também pode ingressar nesse mundo com o Android, o mesmo poder e facilidade deste framework agora podem ser utilizados para criar apps embarcados em diversas plataformas como Raspberry Pi"
+        horario: ""        
+  - nome: "Ítalo Marcel"
+    foto: "italo_marcel"
+    palestra: 
+        titulo: "(A confirmar)"
+        descricao: ""
+        horario: ""        
+  - nome: "Ygor Cezar"
+    foto: "ygor"
+    palestra: 
+        titulo: "(A confirmar)"
         descricao: ""
         horario: ""        
