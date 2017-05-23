@@ -10,10 +10,10 @@
     foto: "jose_w"
     palestra: 
         titulo: "Material Design"
-        descricao: "O tema abordará uma introdução ao material design Google, seu significado e o porquê ele ter sido criado e por meio da minha experiência pessoal, demonstrar os benefícios que o Material Design pode trazer num projeto de UI."
+        descricao: "Uma introdução ao material design Google, seu significado e o porquê ele ter sido criado e por meio da minha experiência pessoal, demonstrar os benefícios que o Material Design pode trazer num projeto de UI."
         horario: ""        
   - nome: "Caique Oliveira"
-    descricao: "Graduado em Ciência da Computação pela UFS, Desenvolvedor Android a 3 anos com interesse nas áreas de arquitetura de projetos para Android."
+    descricao: "Graduado em Ciência da Computação pela UFS, Desenvolvedor Android há 3 anos com interesse nas áreas de arquitetura de projetos para Android."
     foto: "caique_o"
     palestra: 
         titulo: "Arquitetura de Projeto para Android"
