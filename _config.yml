@@ -16,9 +16,10 @@
 title: Android Day Aracaju
 email: gdgaracaju@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://android.gdgaracaju.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gdgaracaju
 github_username:  gdgaracaju
+repository: "android-day-2017/gdgaracaju.github.io"
 
 # Build settings
 markdown: kramdown
