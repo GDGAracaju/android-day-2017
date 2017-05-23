@@ -306,6 +306,10 @@ body {
     }
 }
 
+.pog {
+    margin-left: 32px !important;
+}
+
 @media screen and (min-width: 768px) {
     .pog {
         margin-left: 64px !important;
