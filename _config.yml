@@ -16,7 +16,7 @@
 title: Android Day Aracaju
 email: gdgaracaju@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://android.gdgaracaju.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://androidday.gdgaracaju.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gdgaracaju
 github_username:  gdgaracaju
 repository: "android-day-2017/gdgaracaju.github.io"
@@ -33,7 +33,7 @@ exclude:
 evento: 
   icone: "./assets/img/android-icon.svg"
   titulo: "Android Day - Aracaju"
-  descricao: "O GDG Aracaju fará um dia inteiro de palestras com os melhores desenvolvedores de Sergipe e do Brasil!"
+  descricao: "O GDG Aracaju fará um dia inteiro de palestras com os melhores desenvolvedores de Sergipe e do Brasil! Para se inscrever, basta preencher os dados e no dia levar 1 kg de alimento não perecível, que será doado para entidades sociais."
 
 localizacao:
   nome: "COESI"
