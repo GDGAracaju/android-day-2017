@@ -28,9 +28,9 @@
         titulo: "(A confirmar)"
         descricao: ""
         horario: ""        
-  - nome: "Ygor Cezar"
+  - nome: "Ygor César Vasconcelos Lima"
     foto: "ygor"
     palestra: 
-        titulo: "(A confirmar)"
-        descricao: ""
+        titulo: "Integrando seu App Android ao Firebase"
+        descricao: "Uma introdução de como integrar seu app Android ao Firebase, e utilizar algumas de suas funcionalidades como Realtime Database, Autenticação, Storage, Crash Report, Analytics, Push Notification."
         horario: ""        
