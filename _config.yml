@@ -33,7 +33,7 @@ exclude:
 evento: 
   icone: "./assets/img/android-icon.svg"
   titulo: "Android Day - Aracaju"
-  descricao: "O GDG Aracaju fará um dia inteiro de palestras com os melhores desenvolvedores de Sergipe e do Brasil! Para se inscrever, basta preencher os dados e no dia levar 1 kg de alimento não perecível, que será doado para entidades sociais."
+  descricao: "O GDG Aracaju fará uma tarde inteira de palestras com os melhores desenvolvedores de Sergipe e do Brasil! Para se inscrever, basta preencher os dados e no dia levar 1 kg de alimento não perecível, que será doado para entidades sociais."
 
 localizacao:
   nome: "COESI"
