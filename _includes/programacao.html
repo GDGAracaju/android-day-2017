@@ -1,0 +1,21 @@
+<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+    <div class="mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+            <h4 class="mdl-cell mdl-cell--12-col">Programação</h4>
+            {% for horario in site.data.horarios %}
+            <ul class="demo-list-three mdl-list">
+                <li class="mdl-list__item mdl-list__item--three-line">
+                    <span class="mdl-list__item-primary-content">
+                        <span>
+                            Hora: {{horario.hora}} - Atividade: {{horario.atividade}}
+                        </span>
+
+                    <span class="mdl-list__item-text-body">
+                            <strong>{{horario.responsavel}}</strong>  {{horario.titulo}}
+                        </span>
+                    </span>
+                </li>
+                {% endfor %}
+        </div>
+    </div>
+</section>

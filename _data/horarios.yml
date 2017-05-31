@@ -1,0 +1,44 @@
+- hora: "13:00"
+  atividade: "Abertura e credenciamento"
+  responsavel: "GDG Aracaju"
+  titulo: ""
+
+- hora: "13:20"
+  atividade: "Palestra"
+  responsavel: "Thiago Santos"
+  titulo: "Introdução ao Kotlin"
+ 
+- hora: "14:00"
+  atividade: "Palestra"
+  responsavel: "José Williams"
+  titulo: "Material Design"
+
+- hora: "14:40"
+  atividade: "Palestra"
+  responsavel: "Raul Vilar"
+  titulo: "Android Things Overview"
+  
+- hora: "15:20"
+  atividade: "Palestra"
+  responsavel: "Ygor César Lima"
+  titulo: "Integrando seu App Android ao Firebase"
+
+- hora: "16:00"
+  atividade: "Intervalo"
+  responsavel: ""
+  titulo: ""
+
+- hora: "16:20"
+  atividade: "Palestra"
+  responsavel: "Ítalo Marcel"
+  titulo: "Google Things Overview"
+
+- hora: "17:00"
+  atividade: "Palestra"
+  responsavel: "Caíque Oliveira"
+  titulo: "Arquitetura de Projeto para Android"
+  
+- hora: "13:40"
+  atividade: "Encerramento"
+  responsavel: "GDG Aracaju"
+  titulo: ""
