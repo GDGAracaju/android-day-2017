@@ -1,0 +1,20 @@
+<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+    <div class="mdl-card mdl-cell mdl-cell--12-col">
+        <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+            <h4 class="mdl-cell mdl-cell--12-col">Parceiros</h4>
+            {% for patrocinador in site.data.patrocinadores %}
+            <div class="mdl-card mdl-shadow--2dp demo-card-square" style="background: url('./assets/img/{{patrocinador.foto}}') center / contain;  background-repeat: no-repeat;">
+                <div class="mdl-card__title mdl-card--expand">
+                </div>
+                <div class="mdl-card__supporting-text">
+                </div>
+                <div class="mdl-card__actions mdl-card--border">
+                    <a target="_blank" href="{{patrocinador.site}}" class="mdl-button mdl-button--accent mdl-js-button mdl-js-ripple-effect">
+                        Ir para o site
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
