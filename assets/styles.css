@@ -339,8 +339,3 @@ body {
 .demo-card-square>.mdl-card__accent {
     background: #ff9800;
 }
-
-body {
-    padding: 20px;
-    position: relative;
-}
