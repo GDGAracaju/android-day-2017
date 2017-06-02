@@ -31,14 +31,14 @@
 - hora: "16:20"
   atividade: "Palestra"
   responsavel: "Ítalo Marcel"
-  titulo: "Google Things Overview"
+  titulo: "Google Smart Lock no Android"
 
 - hora: "17:00"
   atividade: "Palestra"
   responsavel: "Caíque Oliveira"
   titulo: "Arquitetura de Projeto para Android"
   
-- hora: "13:40"
+- hora: "17:40"
   atividade: "Encerramento"
   responsavel: "GDG Aracaju"
   titulo: ""
